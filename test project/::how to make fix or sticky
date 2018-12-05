@@ -1,0 +1,11 @@
+//how to make fix or sticky
+nav{
+	Text-align: center;
+	background: white;
+	position: fixed;
+	top:0;
+	width: 100%;
+}
+
+
+display: inline-block;
